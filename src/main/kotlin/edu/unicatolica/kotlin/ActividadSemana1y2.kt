@@ -7,7 +7,7 @@ fun main() {
 
  Enunciado:
  El programa debe solicitar al usuario la cantidad de estudiantes (N) y, a continuación,
- leer la nota de cada uno (valor entre 0.0 y 5.0). Con esta información se debe calcular y mostrar:
+ leer la nota de cada uno (val  or entre 0.0 y 5.0). Con esta información se debe calcular y mostrar:
 
  1. El promedio general del grupo.
  2. La cantidad de estudiantes aprobados (nota >= 3.0) y reprobados (nota < 3.0).
